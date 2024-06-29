@@ -1,2 +1,2 @@
-# katacoda-scenarios
-katacoda interactive scenarios
+# just-for-test
+just-for-test
